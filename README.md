@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="../logo/pytorch.svg" /></p>
+<p align="center"><img width="40%" src="./logo/pytorch.svg" /></p>
 
 --------------------------------------------------------------------------------
 
@@ -13,26 +13,26 @@ Yunjey Choi/ [@yunjey](https://github.com/yunjey)
 ## Table of Contents
 
 #### 1. Basics
-* [PyTorch Basics](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/basic/basic.py)
-* [Linear Regression](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/basic/basic.py)
-* [Logistic Regression](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/basic/logistic_regression.py)
-* [Feedforward Neural Network](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/basics/feedforward_neural_network.py)
+* [PyTorch Basics](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/basic/basic.py)
+* [Linear Regression](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/basic/basic.py)
+* [Logistic Regression](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/basic/logistic_regression.py)
+* [Feedforward Neural Network](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/basics/feedforward_neural_network.py)
 
 #### 2. Intermediate
-* [Convolutional Neural Network](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/intermediate/cnn.py)
-* [Deep Residual Network](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/intermediate/resent.py)
-* [Recurrent Neural Network](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/intermediate/rnn.py)
-* [Bidirectional Recurrent Neural Network](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/intermediate/birnn.py)
-* [Language Model (RNN-LM)](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/intermediate/nlp.py)
+* [Convolutional Neural Network](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/intermediate/cnn.py)
+* [Deep Residual Network](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/intermediate/resent.py)
+* [Recurrent Neural Network](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/intermediate/rnn.py)
+* [Bidirectional Recurrent Neural Network](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/intermediate/birnn.py)
+* [Language Model (RNN-LM)](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/intermediate/nlp.py)
 
 #### 3. Advanced
-* [Generative Adversarial Networks](https://github.com/Lornatang/pytorch-project/blob/master/tutorials/advanced/gan.py)
-* [Variational Auto-Encoder](https://github.com/Lornatang/pytorch-project/blob/master/tutorials/advanced/autoencoder.py)
-* [Neural Style Transfer](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/advanced/neural_style_transfer)
-* [Image Captioning (CNN-RNN)](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/advanced/image_captioning)
+* [Generative Adversarial Networks](https://github.com/Lornatang/pytorch-tutorial/blob/master/tutorials/advanced/gan.py)
+* [Variational Auto-Encoder](https://github.com/Lornatang/pytorch-tutorial/blob/master/tutorials/advanced/autoencoder.py)
+* [Neural Style Transfer](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/advanced/neural_style_transfer)
+* [Image Captioning (CNN-RNN)](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/advanced/image_captioning)
 
 #### 4. Utilities
-* [TensorBoard in PyTorch](https://github.com/Lornatang/pytorch-project/tree/master/tutorials/utils/tensorboard)
+* [TensorBoard in PyTorch](https://github.com/Lornatang/pytorch-tutorial/tree/master/tutorials/utils/tensorboard)
 
 
 
@@ -40,8 +40,8 @@ Yunjey Choi/ [@yunjey](https://github.com/yunjey)
 
 ## Getting Started
 ```bash
-$ git clone https://github.com/Lornatang/pytorch_project.git
-$ cd pytorch_project/tutorials/PATH_TO_PROJECT
+$ git clone https://github.com/Lornatang/pytorch-tutorial.git
+$ cd pytorch-tutorial/tutorials/PATH_TO_PROJECT
 $ python main.py
 ```
 
@@ -52,4 +52,4 @@ $ python main.py
 * [PyTorch 0.4.0](http://pytorch.org/)
 
 ## LINCENSE
-* [MIT](https://github.com/Lornatang/pytorch_project/LICENSE)
+* [MIT](https://github.com/Lornatang/pytorch-tutorial/LICENSE)
