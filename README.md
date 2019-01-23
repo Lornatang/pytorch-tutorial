@@ -1,3 +1,5 @@
+# The repo has been moved to [here](https://github.com/Lornatang/pytorch), and the repo no longer provides maintenance.Thanks!
+
 <p align="center"><img width="40%" src="./logo/pytorch.svg" /></p>
 
 --------------------------------------------------------------------------------
